@@ -1,0 +1,46 @@
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\FillSystemDownloader.Project.exe.config
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\FillSystemDownloader.Project.exe
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\FillSystemDownloader.Project.pdb
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.FrmMain.resources
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.Properties.Resources.resources
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.csproj.GenerateResource.cache
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.csproj.CoreCompileInputs.cache
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.exe
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.pdb
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.csproj.AssemblyReference.cache
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.FrmLogin.resources
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\DotNetZip.dll
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Buffers.dll
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Memory.dll
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Numerics.Vectors.dll
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\DotNetZip.pdb
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\DotNetZip.xml
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Buffers.xml
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Memory.xml
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Numerics.Vectors.xml
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\未来信息\src\充装系统\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.csproj.CopyComplete
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\FillSystemDownloader.Project.exe.config
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\FillSystemDownloader.Project.exe
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\FillSystemDownloader.Project.pdb
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\DotNetZip.dll
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Buffers.dll
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Memory.dll
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Numerics.Vectors.dll
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\DotNetZip.pdb
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\DotNetZip.xml
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Buffers.xml
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Memory.xml
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Numerics.Vectors.xml
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.csproj.AssemblyReference.cache
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.FrmMain.resources
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.FrmLogin.resources
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.Properties.Resources.resources
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.csproj.GenerateResource.cache
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.csproj.CoreCompileInputs.cache
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.csproj.CopyComplete
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.exe
+F:\lrj project\src\FillSystemDownloader.Project\FillSystemDownloader.Project\obj\Debug\FillSystemDownloader.Project.pdb
